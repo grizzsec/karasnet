@@ -23,8 +23,8 @@ Esta herramienta es una representación simplificada de un ciclo de ataque ciber
 
 # ¿Cómo se ejecuta?
 
-git clone del repositorio
-chmod +x al archivo .py
+git clone del repositorio || 
+chmod +x al archivo .py ||
 ejecutar el archivo .py
 
 Recuerda que para ejecutar esta herramienta, debes tener Python instalado en tu sistema y también la biblioteca `tkinter`. Puedes interactuar con la herramienta ingresando los datos correspondientes en cada etapa y haciendo clic en los botones para ejecutar las funciones asociadas a cada etapa. Los mensajes impresos en la consola indicarán las acciones que se están llevando a cabo en cada etapa del ciclo de ataque.
